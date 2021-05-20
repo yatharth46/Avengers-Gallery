@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    background-color: dimgrey;
+}
+
+img {
+    height :300px;
+    width :350px;
+}
+
+#gif {
+    padding-bottom:70px;
+    padding-top: 70px;
+} 
+
+#assembling {
+    width: 700px;
+    height :300px;
+}
+
+#grid {
+  padding-bottom:70px;    
+}
+
+#bardle {
+    width :527px;
+}
+#dirk {
+     width :527px;
+}
+grid {
+    padding-bottom: 70px;
+}
+#mc {
+    height :400px;
+    background-color: blueviolet;
+}
+.item {
+    padding-top: 100px;
+}
+#slider {
+    padding-bottom: 70px;
+}
+
+p {
+    color: limegreen;
+}
+#scarlet {
+    height :200px;
+}
+
+#panther {
+    height :200px;
+}
+
+#thor {
+    height :200px;
+}
+
+#Gamora {
+    height :200px;
+}
+
+#hulk {
+    height :200px;
+}
+
+#man {
+    height :200px;
+}
+
+#unstoppable {
+    height :200px;
+}
+
+#credit {
+    font-size: 20;
+    margin-left: 1200px;
+}
